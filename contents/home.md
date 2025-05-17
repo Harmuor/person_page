@@ -7,7 +7,7 @@ He is a current master's program student in psychology at LU and a former child 
 程诚为隆德大学心理学系在读研究生，曾于中华人民共和国山东省担任儿童职位。程在瑞典一点也不冷也不孤单喵。他治学严谨、一丝不苟，毕业这种事情对他来说肯定游刃有余吧喵。
 
 #### Email
-hamu827897998@gmail.com
+hamu827897998@gmail.com\
 harmuorwork@qq.com
 
 #### Education
