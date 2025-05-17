@@ -1,16 +1,25 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Harmuor](https://img.shields.io/badge/Harmuor-github-blue?logo=github)](https://github.com/Harmuor)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+程诚为隆德大学心理学系在读研究生，曾于中华人民共和国山东省担任儿童职位。程在瑞典一点也不冷也不孤单。他治学严谨、一丝不苟，毕业这种事情对他肯定游刃有余吧。\
+
+He is a current master's program student in psychology at LU and a former child in Shandong Province, China. Cheng is lonely and Sweden is so cold. He worries about if he has chance to graduate successfully.
 
 #### Email
-sli[at]cumt.edu.cn
+hamu827897998@gmail.com
+harmuorwork@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc., Psychology, Lund University, Sweden, 2025.09 — 2027.06 (expected).\
+BSc., Applied Psychology, South-Central Minzu University, China, 2020.09 — 2024.06
+
+#### Internships & Work Experience
+Research Assistant., Zhenhong He Research Group, Shenzhen University, 2024.06 - 2024.09.\
+Counseling Intern (Course Practice)., Department of Applied Psychology, South-Central Minzu University, 2023.03 - 2023.06.\
+Mental Health Teacher (Two-week Work Experience)., Honglianhu No.1 Primary School, 2023.04 - 2023.05.\
+Counseling Assistant., Mental Health Education Center, South-Central Minzu University, 2022.02 - 2023.03.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Social Cognition, False Memory, Decision-Making.
 

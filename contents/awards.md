@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- Lund University Global Scholarship, 2025.
 
-- First-prize Scholarship of CUMT, 2024.
+- University-Level Innovation Project in College Students' innovation and Entrepreneurship Competition, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- 2nd Prize in Challenge Cup Extracurricular Academic and Technological Works Competition, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- Advanced Individual in SCMU Winter Social Practice Project, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Honorary Volunteer for Community Health Services, Dongcheng Street, Heze , 2022.
