@@ -2,7 +2,7 @@
 
 [![Harmuor](https://img.shields.io/badge/Harmuor-github-blue?logo=github)](https://github.com/Harmuor)
 
-He is a current master's program student in psychology at LU and a former child in Shandong Province, China. Cheng is lonely and Sweden is so cold. He worries about if he has chance to graduate successfully.
+He is a current master's program student in psychology at LU and a fomer child position holder in Shandong Province, China. Cheng is lonely and Sweden is so cold. He worries about whether he will be able to graduate successfully.
 
 程诚为隆德大学心理学系在读研究生，曾于中华人民共和国山东省担任儿童职位。程在瑞典一点也不冷也不孤单喵。他治学严谨、一丝不苟，毕业这种事情对他来说肯定游刃有余吧喵。
 
