@@ -1,4 +1,4 @@
-- <strong>The psychological mechanism of social media use affecting adolescent problem behavior</strong>
+- <strong>The Psychological Mechanism of Social Media Use Affecting Adolescent Problem Behavior</strong>
   - University-Level Innovation Project in College Students’ innovation and Entrepreneurship Competition 2024
   - Role: Peer Mentor
   
