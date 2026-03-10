@@ -21,5 +21,5 @@ Mental Health Teacher (Two-week Work Experience)., Honglianhu No.1 Primary Schoo
 Counseling Assistant., Mental Health Education Center, South-Central Minzu University, 2022.02 - 2023.03.
 
 #### Research Interests
-Social Cognition, False Memory, Decision-Making.
+false memory, abstract (抽象).
 
